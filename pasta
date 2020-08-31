@@ -1,0 +1,7071 @@
+{
+	"total_items": 555,
+	"items": [        
+		{
+			"number": 1,
+			"name": "Победа HD",
+			"id": 136173557,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1554828871350.png",
+			"logo": "/sdp/mos/nclogo1554828874465.png",
+			"background": "/sdp/mos/nclogo1554828876749.png"
+		},
+		{
+			"number": 2,
+			"name": "TV 1000 Action HD",
+			"id": 80882794,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508244419419.png",
+			"logo": "/sdp/mos/nclogo1508244426709.png",
+			"background": "/sdp/mos/nclogo1508244433302.png"
+		},
+		{
+			"number": 3,
+			"name": "TV 1000 HD",
+			"id": 80882339,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508244484469.png",
+			"logo": "/sdp/mos/nclogo1508244493582.png",
+			"background": "/sdp/mos/nclogo1508244500710.png"
+		},
+		{
+			"number": 4,
+			"name": "TV XXI Век",
+			"id": 1130961,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1524915683636.png",
+			"logo": "/sdp/mos/nclogo1524915685970.png",
+			"background": "/sdp/mos/nclogo1524915688776.png"
+		},
+		{
+			"number": 5,
+			"name": "Иллюзион +",
+			"id": 1130965,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1524907485988.png",
+			"logo": "/sdp/mos/nclogo1524907488816.png",
+			"background": "/sdp/mos/nclogo1524907493421.png"
+		},
+		{
+			"number": 6,
+			"name": "Русский Иллюзион",
+			"id": 1130969,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1524908003625.png",
+			"logo": "/sdp/mos/nclogo1524908012528.png",
+			"background": "/sdp/mos/nclogo1524908015331.png"
+		},
+		{
+			"number": 7,
+			"name": "TV 1000 Русское кино HD",
+			"id": 80882836,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508244751483.png",
+			"logo": "/sdp/mos/nclogo1508244758120.png",
+			"background": "/sdp/mos/nclogo1508244763003.png"
+		},
+		{
+			"number": 8,
+			"name": "Кинокомедия",
+			"id": 1130977,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1540547028333.png",
+			"logo": "/sdp/mos/nclogo1540547031761.png",
+			"background": "/sdp/mos/nclogo1540547035572.png"
+		},
+		{
+			"number": 9,
+			"name": "Paramount Comedy HD",
+			"id": 78863097,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1514205180327.png",
+			"logo": "/sdp/mos/nclogo1514205214914.png",
+			"background": "/sdp/mos/nclogo1514205222745.png"
+		},
+		{
+			"number": 10,
+			"name": "Sony Channel HD",
+			"id": 1144585,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1566836604211.png",
+			"logo": "/sdp/mos/nclogo1566836607273.png",
+			"background": "/sdp/mos/nclogo1509023776301.png"
+		},
+		{
+			"number": 11,
+			"name": "Hollywood",
+			"id": 167212592,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_HOLLYWOOD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1577779792618.png",
+			"logo": "/sdp/mos/nclogo1577779796643.png",
+			"background": "/sdp/mos/nclogo1577779799654.png"
+		},
+		{
+			"number": 12,
+			"name": "НСТ",
+			"id": 1130993,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NSTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1501847698329.png",
+			"logo": "/sdp/mos/nclogo1501847704403.png",
+			"background": "/sdp/mos/nclogo1501847706952.png"
+		},
+		{
+			"number": 13,
+			"name": "FOX HD",
+			"id": 78863380,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1547077219871.png",
+			"logo": "/sdp/mos/nclogo1547077221962.png",
+			"background": "/sdp/mos/nclogo1547077224455.png"
+		},
+		{
+			"number": 14,
+			"name": "Fox Life HD",
+			"id": 2371796,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508933868682.png",
+			"logo": "/sdp/mos/nclogo1508933873750.png",
+			"background": "/sdp/mos/nclogo1508933876562.png"
+		},
+		{
+			"number": 15,
+			"name": "Феникс+ Кино",
+			"id": 1131005,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1546048595577.png",
+			"logo": "/sdp/mos/nclogo1546048596439.png",
+			"background": "/sdp/mos/nclogo1546048601101.png"
+		},
+		{
+			"number": 16,
+			"name": "Дом Кино",
+			"id": 69647653,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1508245859705.png",
+			"logo": "/sdp/mos/nclogo1508245864604.png",
+			"background": "/sdp/mos/nclogo1508245870743.png"
+		},
+		{
+			"number": 17,
+			"name": "Sony Sci-Fi",
+			"id": 2350245,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1508245904447.png",
+			"logo": "/sdp/mos/nclogo1508245911310.png",
+			"background": "/sdp/mos/nclogo1508245917338.png"
+		},
+		{
+			"number": 18,
+			"name": "Любимое Кино",
+			"id": 106676295,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1524126302829.png",
+			"logo": "/sdp/mos/nclogo1524126307279.png",
+			"background": "/sdp/mos/nclogo1524126315524.png"
+		},
+		{
+			"number": 19,
+			"name": "A2 HD",
+			"id": 78823248,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_A2PROLYBOV/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1551429229702.png",
+			"logo": "/sdp/mos/nclogo1551429230507.png",
+			"background": "/sdp/mos/nclogo1551429238175.png"
+		},
+		{
+			"number": 20,
+			"name": "Киноужас HD",
+			"id": 159784524,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUZHASHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1573801740209.png",
+			"logo": "/sdp/mos/nclogo1573801743681.png",
+			"background": "/sdp/mos/nclogo1573801746496.png"
+		},
+		{
+			"number": 21,
+			"name": "Комедия",
+			"id": 84779399,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1508245982973.png",
+			"logo": "/sdp/mos/nclogo1508245989921.png",
+			"background": "/sdp/mos/nclogo1508245994675.png"
+		},
+		{
+			"number": 22,
+			"name": "Киномикс",
+			"id": 2371240,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1547076450742.png",
+			"logo": "/sdp/mos/nclogo1547076452748.png",
+			"background": "/sdp/mos/nclogo1547076456491.png"
+		},
+		{
+			"number": 23,
+			"name": "Мужское кино",
+			"id": 2371303,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8"
+				}
+			],
+			"themes": [
+				9
+			],
+			"full_logo": "/sdp/mos/nclogo1547076333999.png",
+			"logo": "/sdp/mos/nclogo1547076335934.png",
+			"background": "/sdp/mos/nclogo1547076339200.png"
+		},
+		{
+			"number": 24,
+			"name": "Родное кино",
+			"id": 2371326,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1565015624437.png",
+			"logo": "/sdp/mos/nclogo1565015627187.png",
+			"background": "/sdp/mos/nclogo1565015630342.png"
+		},
+		{
+			"number": 25,
+			"name": "Наше новое кино",
+			"id": 2371349,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1565015608904.png",
+			"logo": "/sdp/mos/nclogo1565015611354.png",
+			"background": "/sdp/mos/nclogo1565015614762.png"
+		},
+		{
+			"number": 26,
+			"name": "Paramount Channel",
+			"id": 29944110,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PARAMOUNTCHANNEL/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1508246021246.png",
+			"logo": "/sdp/mos/nclogo1508246027079.png",
+			"background": "/sdp/mos/nclogo1508246031078.png"
+		},
+		{
+			"number": 27,
+			"name": "Кино ТВ HD",
+			"id": 94802108,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1509023376742.png",
+			"logo": "/sdp/mos/nclogo1509023379551.png",
+			"background": "/sdp/mos/nclogo1509023382818.png"
+		},
+		{
+			"number": 28,
+			"name": "Hollywood HD",
+			"id": 167212864,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_HOLLYWOODHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1577779830331.png",
+			"logo": "/sdp/mos/nclogo1577779833408.png",
+			"background": "/sdp/mos/nclogo1577779836080.png"
+		},
+		{
+			"number": 29,
+			"name": "Zee TV",
+			"id": 1144348,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1524820123969.png",
+			"logo": "/sdp/mos/nclogo1524820126572.png",
+			"background": "/sdp/mos/nclogo1524820129788.png"
+		},
+		{
+			"number": 30,
+			"name": "Русский роман HD",
+			"id": 84779117,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1547078511115.png",
+			"logo": "/sdp/mos/nclogo1547078514283.png",
+			"background": "/sdp/mos/nclogo1547078517058.png"
+		},
+		{
+			"number": 31,
+			"name": "Русский бестселлер",
+			"id": 19688449,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1547077541881.png",
+			"logo": "/sdp/mos/nclogo1547077545686.png",
+			"background": "/sdp/mos/nclogo1547077550329.png"
+		},
+		{
+			"number": 32,
+			"name": "A1 HD",
+			"id": 78863093,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1497532498961.png",
+			"logo": "/sdp/mos/nclogo1497532502650.png",
+			"background": "/sdp/mos/nclogo1497532506069.png"
+		},
+		{
+			"number": 33,
+			"name": "Русский детектив",
+			"id": 1144364,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1547078143787.png",
+			"logo": "/sdp/mos/nclogo1547078146810.png",
+			"background": "/sdp/mos/nclogo1547078149945.png"
+		},
+		{
+			"number": 34,
+			"name": "Cinema",
+			"id": 17437629,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1508934094697.png",
+			"logo": "/sdp/mos/nclogo1508934097122.png",
+			"background": "/sdp/mos/nclogo1508934099483.png"
+		},
+		{
+			"number": 35,
+			"name": "Spike HD",
+			"id": 147822957,
+			"is_barker": false,
+			"description": "vlg",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPIKEHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/vlg/nclogo1540549525073.png",
+			"logo": "/sdp/vlg/nclogo1540549528051.png",
+			"background": "/sdp/vlg/nclogo1540549532557.png"
+		},
+		{
+			"number": 36,
+			"name": "Sony Turbo",
+			"id": 107576607,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1524126238201.png",
+			"logo": "/sdp/mos/nclogo1524126244391.png",
+			"background": "/sdp/mos/nclogo1524126250992.png"
+		},
+		{
+			"number": 37,
+			"name": "Star Cinema",
+			"id": 115483264,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1533216194484.png",
+			"logo": "/sdp/mos/nclogo1533216197102.png",
+			"background": "/sdp/mos/nclogo1533216200109.png"
+		},
+		{
+			"number": 38,
+			"name": "Star Family",
+			"id": 115483194,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1533216208212.png",
+			"logo": "/sdp/mos/nclogo1533216210975.png",
+			"background": "/sdp/mos/nclogo1533216214606.png"
+		},
+		{
+			"number": 39,
+			"name": "BOLT",
+			"id": 115483452,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1533216227542.png",
+			"logo": "/sdp/mos/nclogo1533216231639.png",
+			"background": "/sdp/mos/nclogo1533216234899.png"
+		},
+		{
+			"number": 40,
+			"name": "SHOT TV",
+			"id": 122926678,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTVHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1567506565895.png",
+			"logo": "/sdp/mos/nclogo1567506571960.png",
+			"background": "/sdp/mos/nclogo1567506574578.png"
+		},
+		{
+			"number": 41,
+			"name": "FAN HD",
+			"id": 132876570,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1551776619997.png",
+			"logo": "/sdp/mos/nclogo1551776622325.png",
+			"background": "/sdp/mos/nclogo1551776626238.png"
+		},
+		{
+			"number": 42,
+			"name": "Мир сериала",
+			"id": 139246896,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1557992462388.png",
+			"logo": "/sdp/mos/nclogo1557992468538.png",
+			"background": "/sdp/mos/nclogo1557992471345.png"
+		},
+		{
+			"number": 43,
+			"name": "Сиеста HD",
+			"id": 152393833,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SIESTAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1568638287006.png",
+			"logo": "/sdp/mos/nclogo1568638289461.png",
+			"background": "/sdp/mos/nclogo1568638292746.png"
+		},
+		{
+			"number": 44,
+			"name": "Sony Channel",
+			"id": 78863287,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SET/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1566836634079.png",
+			"logo": "/sdp/mos/nclogo1566836636538.png",
+			"background": "/sdp/mos/nclogo1508934627816.png"
+		},
+		{
+			"number": 45,
+			"name": "Paramount Channel HD",
+			"id": 29944315,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508933742566.png",
+			"logo": "/sdp/mos/nclogo1508933745399.png",
+			"background": "/sdp/mos/nclogo1508933747887.png"
+		},
+		{
+			"number": 46,
+			"name": "О, кино!",
+			"id": 134076503,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1553536946266.png",
+			"logo": "/sdp/mos/nclogo1553536949240.png",
+			"background": "/sdp/mos/nclogo1553536951517.png"
+		},
+		{
+			"number": 47,
+			"name": "ViP Premiere",
+			"id": 7686511,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1524672452238.png",
+			"logo": "/sdp/mos/nclogo1516106230903.png",
+			"background": "/sdp/mos/nclogo1524672456644.png"
+		},
+		{
+			"number": 48,
+			"name": "ViP Megahit",
+			"id": 7686532,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1524672437540.png",
+			"logo": "/sdp/mos/nclogo1515662282463.png",
+			"background": "/sdp/mos/nclogo1524672441075.png"
+		},
+		{
+			"number": 49,
+			"name": "ViP Comedy",
+			"id": 7686580,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1524672544058.png",
+			"logo": "/sdp/mos/nclogo1515662507384.png",
+			"background": "/sdp/mos/nclogo1524672549395.png"
+		},
+		{
+			"number": 50,
+			"name": "Страшное HD",
+			"id": 38545350,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1515662582956.png",
+			"logo": "/sdp/mos/nclogo1515662585747.png",
+			"background": "/sdp/mos/nclogo1515662588378.png"
+		},
+		{
+			"number": 51,
+			"name": "Amedia Hit HD",
+			"id": 58886702,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1530632737515.png",
+			"logo": "/sdp/mos/nclogo1530632740083.png",
+			"background": "/sdp/mos/nclogo1530632743244.png"
+		},
+		{
+			"number": 52,
+			"name": "Amedia Premium HD",
+			"id": 21458644,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1537888724808.png",
+			"logo": "/sdp/mos/nclogo1537888728556.png",
+			"background": "/sdp/mos/nclogo1537888730799.png"
+		},
+		{
+			"number": 53,
+			"name": "ViP Serial",
+			"id": 27109203,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1546027485171.png",
+			"logo": "/sdp/mos/nclogo1546027488231.png",
+			"background": "/sdp/mos/nclogo1546027491775.png"
+		},
+		{
+			"number": 54,
+			"name": "Дом кино Премиум HD",
+			"id": 70914553,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508922957856.png",
+			"logo": "/sdp/mos/nclogo1508922960613.png",
+			"background": "/sdp/mos/nclogo1508922963643.png"
+		},
+		{
+			"number": 55,
+			"name": "Bollywood HD",
+			"id": 77742362,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1566899395596.png",
+			"logo": "/sdp/mos/nclogo1566899397854.png",
+			"background": "/sdp/mos/nclogo1566899400640.png"
+		},
+		{
+			"number": 56,
+			"name": "Кинохит HD",
+			"id": 115579332,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1533656979515.png",
+			"logo": "/sdp/mos/nclogo1533656982479.png",
+			"background": "/sdp/mos/nclogo1533656986624.png"
+		},
+		{
+			"number": 57,
+			"name": "Киносемья HD",
+			"id": 115579387,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1533657004424.png",
+			"logo": "/sdp/mos/nclogo1533657008983.png",
+			"background": "/sdp/mos/nclogo1533657013920.png"
+		},
+		{
+			"number": 58,
+			"name": "Киносвидание HD",
+			"id": 115579435,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1533657027685.png",
+			"logo": "/sdp/mos/nclogo1533657033840.png",
+			"background": "/sdp/mos/nclogo1533657041411.png"
+		},
+		{
+			"number": 59,
+			"name": "Кинопремьера HD",
+			"id": 115579462,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1533657057305.png",
+			"logo": "/sdp/mos/nclogo1533657060637.png",
+			"background": "/sdp/mos/nclogo1533657065059.png"
+		},
+		{
+			"number": 60,
+			"name": "Ultra HD Cinema",
+			"id": 138653171,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8"
+				}
+			],
+			"themes": [
+				8,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1557245701092.png",
+			"logo": "/sdp/mos/nclogo1557245701381.png",
+			"background": "/sdp/mos/nclogo1557245707249.png"
+		},
+		{
+			"number": 61,
+			"name": "Карусель",
+			"id": 1000204,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1506684533126.png",
+			"logo": "/sdp/mos/nclogo1506684548231.png",
+			"background": "/sdp/mos/nclogo1506684567536.png"
+		},
+		{
+			"number": 62,
+			"name": "Nickelodeon HD",
+			"id": 1144581,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				5,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1497612622596.png",
+			"logo": "/sdp/mos/nclogo1497612627803.png",
+			"background": "/sdp/mos/nclogo1497612632009.png"
+		},
+		{
+			"number": 63,
+			"name": "Nickelodeon",
+			"id": 1144303,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NICKELODEON/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1497532874111.png",
+			"logo": "/sdp/mos/nclogo1497532877574.png",
+			"background": "/sdp/mos/nclogo1497532880942.png"
+		},
+		{
+			"number": 64,
+			"name": "Канал Disney",
+			"id": 1144307,
+			"is_barker": false,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/ct/nclogo1544172455207.png",
+			"logo": "/sdp/ct/nclogo1544172458207.png",
+			"background": "/sdp/ct/nclogo1544172461460.png"
+		},
+		{
+			"number": 65,
+			"name": "Канал Disney (+4)",
+			"id": 1144307,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1544172455207.png",
+			"logo": "/sdp/ct/nclogo1544172458207.png",
+			"background": "/sdp/ct/nclogo1544172461460.png"
+		},
+		{
+			"number": 66,
+			"name": "Канал Disney (+7)",
+			"id": 52920,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1544172455207.png",
+			"logo": "/sdp/ct/nclogo1544172458207.png",
+			"background": "/sdp/ct/nclogo1544172461460.png"
+		},
+		{
+			"number": 67,
+			"name": "Мульт HD",
+			"id": 84779285,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				5,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1575272877044.png",
+			"logo": "/sdp/mos/nclogo1575272879591.png",
+			"background": "/sdp/mos/nclogo1575272882540.png"
+		},
+		{
+			"number": 68,
+			"name": "Мульт",
+			"id": 39680352,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1508249520154.png",
+			"logo": "/sdp/mos/nclogo1508249527551.png",
+			"background": "/sdp/mos/nclogo1508249532066.png"
+		},
+		{
+			"number": 69,
+			"name": "Уникум",
+			"id": 1144308,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1591006481717.png",
+			"logo": "/sdp/mos/nclogo1591006484759.png",
+			"background": "/sdp/mos/nclogo1591006487032.png"
+		},
+		{
+			"number": 70,
+			"name": "Радость Моя",
+			"id": 1144312,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1497600234406.png",
+			"logo": "/sdp/mos/nclogo1497600239140.png",
+			"background": "/sdp/mos/nclogo1497600242417.png"
+		},
+		{
+			"number": 71,
+			"name": "Tiji",
+			"id": 1144316,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TIJI/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1497600270755.png",
+			"logo": "/sdp/mos/nclogo1497600275372.png",
+			"background": "/sdp/mos/nclogo1497600278557.png"
+		},
+		{
+			"number": 72,
+			"name": "Cartoon Network HD",
+			"id": 1144320,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				5,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1497600299610.png",
+			"logo": "/sdp/mos/nclogo1497600303566.png",
+			"background": "/sdp/mos/nclogo1497600306372.png"
+		},
+		{
+			"number": 73,
+			"name": "Детский Мир",
+			"id": 2370919,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1565764479109.png",
+			"logo": "/sdp/mos/nclogo1565764482004.png",
+			"background": "/sdp/mos/nclogo1565764484583.png"
+		},
+		{
+			"number": 74,
+			"name": "Мультимузыка",
+			"id": 2856402,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STRANA/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1513672997795.png",
+			"logo": "/sdp/mos/nclogo1513673001506.png",
+			"background": "/sdp/mos/nclogo1513673086351.png"
+		},
+		{
+			"number": 75,
+			"name": "JimJam",
+			"id": 1144296,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_JIMJAM/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1533107529440.png",
+			"logo": "/sdp/mos/nclogo1533107532275.png",
+			"background": "/sdp/mos/nclogo1533107534911.png"
+		},
+		{
+			"number": 76,
+			"name": "Gulli Girl",
+			"id": 2370718,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_GULLI/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1536766285308.png",
+			"logo": "/sdp/mos/nclogo1536766289571.png",
+			"background": "/sdp/mos/nclogo1536766292139.png"
+		},
+		{
+			"number": 77,
+			"name": "Nick Jr.",
+			"id": 2370850,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NICKJUNIOR/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1536655049310.png",
+			"logo": "/sdp/mos/nclogo1536655051811.png",
+			"background": "/sdp/mos/nclogo1536655055488.png"
+		},
+		{
+			"number": 78,
+			"name": "Baby TV",
+			"id": 2370524,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BABYTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1497600455920.png",
+			"logo": "/sdp/mos/nclogo1497600459347.png",
+			"background": "/sdp/mos/nclogo1497600462731.png"
+		},
+		{
+			"number": 79,
+			"name": "Boomerang",
+			"id": 2370497,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BOOMERANG/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1497600481796.png",
+			"logo": "/sdp/mos/nclogo1497600485420.png",
+			"background": "/sdp/mos/nclogo1497600489019.png"
+		},
+		{
+			"number": 80,
+			"name": "О!",
+			"id": 93801543,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1508249739753.png",
+			"logo": "/sdp/mos/nclogo1508249744373.png",
+			"background": "/sdp/mos/nclogo1508249747627.png"
+		},
+		{
+			"number": 81,
+			"name": "В гостях у сказки",
+			"id": 95475825,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1509023895504.png",
+			"logo": "/sdp/mos/nclogo1509023898766.png",
+			"background": "/sdp/mos/nclogo1509023901228.png"
+		},
+		{
+			"number": 82,
+			"name": "Малыш ТВ",
+			"id": 158201891,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MALYSHTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1572275752333.png",
+			"logo": "/sdp/mos/nclogo1572275755625.png",
+			"background": "/sdp/mos/nclogo1572275758010.png"
+		},
+		{
+			"number": 83,
+			"name": "Мультиландия",
+			"id": 141460910,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MULTIMANIA/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1581354305394.png",
+			"logo": "/sdp/mos/nclogo1581354310949.png",
+			"background": "/sdp/mos/nclogo1581354308590.png"
+		},
+		{
+			"number": 84,
+			"name": "Ani",
+			"id": 171431626,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ANI/variant.m3u8"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1581064440935.png",
+			"logo": "/sdp/mos/nclogo1581064444658.png",
+			"background": "/sdp/mos/nclogo1581064447450.png"
+		},
+		{
+			"number": 85,
+			"name": "СТС Kids HD",
+			"id": 114063401,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				5,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1534923709826.png",
+			"logo": "/sdp/mos/nclogo1534923712727.png",
+			"background": "/sdp/mos/nclogo1534923714932.png"
+		},
+		{
+			"number": 86,
+			"name": "Матч! ТВ HD",
+			"id": 74658596,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1572956617832.png",
+			"logo": "/sdp/mos/nclogo1572956620481.png",
+			"background": "/sdp/mos/nclogo1572956623451.png"
+		},
+		{
+			"number": 87,
+			"name": "UFC ТВ",
+			"id": 137053402,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1555519051273.png",
+			"logo": "/sdp/mos/nclogo1555519054014.png",
+			"background": "/sdp/mos/nclogo1555519057053.png"
+		},
+		{
+			"number": 88,
+			"name": "Матч! Футбол 1 HD",
+			"id": 61426874,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1501848171532.png",
+			"logo": "/sdp/mos/nclogo1501848174671.png",
+			"background": "/sdp/mos/nclogo1501848177256.png"
+		},
+		{
+			"number": 89,
+			"name": "Матч! Футбол 2 HD",
+			"id": 61426888,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1501848190846.png",
+			"logo": "/sdp/mos/nclogo1501848193360.png",
+			"background": "/sdp/mos/nclogo1501848195548.png"
+		},
+		{
+			"number": 90,
+			"name": "Матч! Футбол 3 HD",
+			"id": 61426900,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1501848213415.png",
+			"logo": "/sdp/mos/nclogo1501848216119.png",
+			"background": "/sdp/mos/nclogo1501848218269.png"
+		},
+		{
+			"number": 91,
+			"name": "Матч! Премьер HD",
+			"id": 20244318,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1532695038074.png",
+			"logo": "/sdp/mos/nclogo1532695041255.png",
+			"background": "/sdp/mos/nclogo1532695044076.png"
+		},
+		{
+			"number": 92,
+			"name": "Футбол HD",
+			"id": 106018216,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1581943773013.png",
+			"logo": "/sdp/mos/nclogo1581943777139.png",
+			"background": "/sdp/mos/nclogo1581943796077.png"
+		},
+		{
+			"number": 93,
+			"name": "Матч! Боец",
+			"id": 1144436,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BOETZ/variant.m3u8"
+				}
+			],
+			"themes": [
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1497608835928.png",
+			"logo": "/sdp/mos/nclogo1497608841107.png",
+			"background": "/sdp/mos/nclogo1497608844700.png"
+		},
+		{
+			"number": 94,
+			"name": "Матч! Арена HD",
+			"id": 1144499,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508251174538.png",
+			"logo": "/sdp/mos/nclogo1508251179525.png",
+			"background": "/sdp/mos/nclogo1508251183569.png"
+		},
+		{
+			"number": 95,
+			"name": "Матч! Страна",
+			"id": 2371350,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSPORT/variant.m3u8"
+				}
+			],
+			"themes": [
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1551687506107.png",
+			"logo": "/sdp/mos/nclogo1551687508916.png",
+			"background": "/sdp/mos/nclogo1551687511038.png"
+		},
+		{
+			"number": 96,
+			"name": "Матч! Игра HD",
+			"id": 77742737,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508251445090.png",
+			"logo": "/sdp/mos/nclogo1508251449408.png",
+			"background": "/sdp/mos/nclogo1508251452276.png"
+		},
+		{
+			"number": 97,
+			"name": "Eurosport 1 HD",
+			"id": 1144521,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508251593211.png",
+			"logo": "/sdp/mos/nclogo1508251612797.png",
+			"background": "/sdp/mos/nclogo1508251616819.png"
+		},
+		{
+			"number": 98,
+			"name": "Eurosport 1",
+			"id": 1144424,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT/variant.m3u8"
+				}
+			],
+			"themes": [
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1508251035187.png",
+			"logo": "/sdp/mos/nclogo1508251038086.png",
+			"background": "/sdp/mos/nclogo1508251041106.png"
+		},
+		{
+			"number": 99,
+			"name": "Eurosport 2 HD",
+			"id": 168540810,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT2HD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1579851967138.png",
+			"logo": "/sdp/mos/nclogo1579851969566.png",
+			"background": "/sdp/mos/nclogo1579851972542.png"
+		},
+		{
+			"number": 100,
+			"name": "Eurosport 2",
+			"id": 1144428,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT2/variant.m3u8"
+				}
+			],
+			"themes": [
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1579851788766.png",
+			"logo": "/sdp/mos/nclogo1579851792322.png",
+			"background": "/sdp/mos/nclogo1579851795321.png"
+		},
+		{
+			"number": 101,
+			"name": "Eurosport Gold HD",
+			"id": 77742201,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_GHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1533309658813.png",
+			"logo": "/sdp/mos/nclogo1533308069812.png",
+			"background": "/sdp/mos/nclogo1533309663700.png"
+		},
+		{
+			"number": 102,
+			"name": "Eurosport Gold",
+			"id": 99962552,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_G/variant.m3u8"
+				}
+			],
+			"themes": [
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1508923003559.png",
+			"logo": "/sdp/mos/nclogo1508923008940.png",
+			"background": "/sdp/mos/nclogo1508923015360.png"
+		},
+		{
+			"number": 103,
+			"name": "КХЛ HD",
+			"id": 15294825,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_KHLHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1501848145083.png",
+			"logo": "/sdp/mos/nclogo1501848147316.png",
+			"background": "/sdp/mos/nclogo1501848149743.png"
+		},
+		{
+			"number": 104,
+			"name": "КХЛ",
+			"id": 1144432,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KHL/variant.m3u8"
+				}
+			],
+			"themes": [
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1536761410567.png",
+			"logo": "/sdp/mos/nclogo1536761413133.png",
+			"background": "/sdp/mos/nclogo1536761416257.png"
+		},
+		{
+			"number": 105,
+			"name": "Viasat Sport HD",
+			"id": 27109418,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1516106504931.png",
+			"logo": "/sdp/mos/nclogo1516106507744.png",
+			"background": "/sdp/mos/nclogo1516106510093.png"
+		},
+		{
+			"number": 106,
+			"name": "Viasat Sport",
+			"id": 1144444,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATSPORT/variant.m3u8"
+				}
+			],
+			"themes": [
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1508251209960.png",
+			"logo": "/sdp/mos/nclogo1508251213276.png",
+			"background": "/sdp/mos/nclogo1508251215971.png"
+		},
+		{
+			"number": 107,
+			"name": "Русский экстрим",
+			"id": 1144448,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREAM/variant.m3u8"
+				}
+			],
+			"themes": [
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1508251267563.png",
+			"logo": "/sdp/mos/nclogo1508251270875.png",
+			"background": "/sdp/mos/nclogo1508251274126.png"
+		},
+		{
+			"number": 108,
+			"name": "Extreme Sports",
+			"id": 1144456,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EXTREMESPORTS/variant.m3u8"
+				}
+			],
+			"themes": [
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1497608895905.png",
+			"logo": "/sdp/mos/nclogo1508251342470.png",
+			"background": "/sdp/mos/nclogo1497608907506.png"
+		},
+		{
+			"number": 109,
+			"name": "Мир Баскетбола",
+			"id": 161959500,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRBASKETBOLA/variant.m3u8"
+				}
+			],
+			"themes": [
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1575295624006.png",
+			"logo": "/sdp/mos/nclogo1575295627055.png",
+			"background": "/sdp/mos/nclogo1575295629936.png"
+		},
+		{
+			"number": 110,
+			"name": "Моторспорт ТВ HD",
+			"id": 161990360,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MOTOSPORTTVHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1575447830359.png",
+			"logo": "/sdp/mos/nclogo1575447832921.png",
+			"background": "/sdp/mos/nclogo1575447835165.png"
+		},
+		{
+			"number": 111,
+			"name": "СТАРТ",
+			"id": 162103183,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STARTHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1575564894923.png",
+			"logo": "/sdp/mos/nclogo1575564897573.png",
+			"background": "/sdp/mos/nclogo1575564900865.png"
+		},
+		{
+			"number": 112,
+			"name": "Fuel TV HD",
+			"id": 77742278,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FUELHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1497613115348.png",
+			"logo": "/sdp/mos/nclogo1497613119633.png",
+			"background": "/sdp/mos/nclogo1497613123822.png"
+		},
+		{
+			"number": 113,
+			"name": "Eurosport 4K",
+			"id": 138628565,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1566550767579.png",
+			"logo": "/sdp/mos/nclogo1566550769539.png",
+			"background": "/sdp/mos/nclogo1566550772124.png"
+		},
+		{
+			"number": 114,
+			"name": "Russian Extreme Ultra HD",
+			"id": 138629856,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8"
+				}
+			],
+			"themes": [
+				7,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1557244406920.png",
+			"logo": "/sdp/mos/nclogo1557244411058.png",
+			"background": "/sdp/mos/nclogo1557244421871.png"
+		},
+		{
+			"number": 115,
+			"name": "Жара HD",
+			"id": 102363610,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1516192963216.png",
+			"logo": "/sdp/mos/nclogo1524084366887.png",
+			"background": "/sdp/mos/nclogo1516192969400.png"
+		},
+		{
+			"number": 116,
+			"name": "MTV HD",
+			"id": 92151427,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508423550163.png",
+			"logo": "/sdp/mos/nclogo1508423557245.png",
+			"background": "/sdp/mos/nclogo1508423561742.png"
+		},
+		{
+			"number": 117,
+			"name": "MTV",
+			"id": 23745076,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1514205564937.png",
+			"logo": "/sdp/mos/nclogo1514205568531.png",
+			"background": "/sdp/mos/nclogo1514205571139.png"
+		},
+		{
+			"number": 118,
+			"name": "О2ТВ HD",
+			"id": 114872774,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_O2TVHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1532335943795.png",
+			"logo": "/sdp/mos/nclogo1532335946569.png",
+			"background": "/sdp/mos/nclogo1532335949307.png"
+		},
+		{
+			"number": 119,
+			"name": "Жар Птица",
+			"id": 116322667,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_JARPTIZA/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1534506433312.png",
+			"logo": "/sdp/mos/nclogo1534506436092.png",
+			"background": "/sdp/mos/nclogo1534506438728.png"
+		},
+		{
+			"number": 120,
+			"name": "ТНТ Music",
+			"id": 1144324,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1531394833182.png",
+			"logo": "/sdp/mos/nclogo1531394835375.png",
+			"background": "/sdp/mos/nclogo1508250492571.png"
+		},
+		{
+			"number": 121,
+			"name": "Russian MusicBox HD",
+			"id": 85860208,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508250554437.png",
+			"logo": "/sdp/mos/nclogo1508250564631.png",
+			"background": "/sdp/mos/nclogo1508250573003.png"
+		},
+		{
+			"number": 122,
+			"name": "MusicBox",
+			"id": 1144332,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1511252522136.png",
+			"logo": "/sdp/mos/nclogo1511252529179.png",
+			"background": "/sdp/mos/nclogo1511252533909.png"
+		},
+		{
+			"number": 123,
+			"name": "Clubbing TV HD",
+			"id": 73336865,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508420780074.png",
+			"logo": "/sdp/mos/nclogo1508420783113.png",
+			"background": "/sdp/mos/nclogo1508420785434.png"
+		},
+		{
+			"number": 124,
+			"name": "RU.TV HD",
+			"id": 93269333,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1542015643146.png",
+			"logo": "/sdp/mos/nclogo1542015646070.png",
+			"background": "/sdp/mos/nclogo1542015649172.png"
+		},
+		{
+			"number": 125,
+			"name": "Шансон-ТВ",
+			"id": 1144336,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1508250732522.png",
+			"logo": "/sdp/mos/nclogo1508250736428.png",
+			"background": "/sdp/mos/nclogo1508250739503.png"
+		},
+		{
+			"number": 126,
+			"name": "Ля-минор",
+			"id": 1144400,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1586517231684.png",
+			"logo": "/sdp/mos/nclogo1586517235039.png",
+			"background": "/sdp/mos/nclogo1586517237883.png"
+		},
+		{
+			"number": 127,
+			"name": "VH1 European",
+			"id": 1144404,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VH1EUROPEAN/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1497600617424.png",
+			"logo": "/sdp/mos/nclogo1497600620366.png",
+			"background": "/sdp/mos/nclogo1497600623322.png"
+		},
+		{
+			"number": 128,
+			"name": "MCM TOP",
+			"id": 1144408,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1497600646988.png",
+			"logo": "/sdp/mos/nclogo1497600653241.png",
+			"background": "/sdp/mos/nclogo1497600656908.png"
+		},
+		{
+			"number": 129,
+			"name": "Bridge TV",
+			"id": 1144412,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1567502152083.png",
+			"logo": "/sdp/mos/nclogo1567502154705.png",
+			"background": "/sdp/mos/nclogo1567502157773.png"
+		},
+		{
+			"number": 130,
+			"name": "Европа Плюс ТВ",
+			"id": 2370649,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1497600683226.png",
+			"logo": "/sdp/mos/nclogo1497600692847.png",
+			"background": "/sdp/mos/nclogo1497600698198.png"
+		},
+		{
+			"number": 131,
+			"name": "MTV Dance",
+			"id": 1144384,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MTVDANCE/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1497608623742.png",
+			"logo": "/sdp/mos/nclogo1497608627868.png",
+			"background": "/sdp/mos/nclogo1497608632889.png"
+		},
+		{
+			"number": 132,
+			"name": "MTV Hits",
+			"id": 1144388,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHITS/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1497608652422.png",
+			"logo": "/sdp/mos/nclogo1497608656877.png",
+			"background": "/sdp/mos/nclogo1497608661152.png"
+		},
+		{
+			"number": 133,
+			"name": "MTV Rocks",
+			"id": 1144392,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MTVROCKS/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1497608686813.png",
+			"logo": "/sdp/mos/nclogo1497608690479.png",
+			"background": "/sdp/mos/nclogo1497608694132.png"
+		},
+		{
+			"number": 134,
+			"name": "VH1 Classic",
+			"id": 1144396,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VH1CLASSIC/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1536320858611.png",
+			"logo": "/sdp/mos/nclogo1536320861507.png",
+			"background": "/sdp/mos/nclogo1497608725187.png"
+		},
+		{
+			"number": 135,
+			"name": "Mezzo",
+			"id": 2370741,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MEZZO/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1497608758891.png",
+			"logo": "/sdp/mos/nclogo1497608762996.png",
+			"background": "/sdp/mos/nclogo1497608767473.png"
+		},
+		{
+			"number": 136,
+			"name": "Bridge TV Русский хит",
+			"id": 2370896,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSONGTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1567502174399.png",
+			"logo": "/sdp/mos/nclogo1567502176999.png",
+			"background": "/sdp/mos/nclogo1567502180148.png"
+		},
+		{
+			"number": 137,
+			"name": "Bridge TV Hits",
+			"id": 115477467,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1559643581570.png",
+			"logo": "/sdp/mos/nclogo1559643584513.png",
+			"background": "/sdp/mos/nclogo1533053448034.png"
+		},
+		{
+			"number": 138,
+			"name": "Bridge TV Classic",
+			"id": 115477770,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVCLASSIC/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1567502192862.png",
+			"logo": "/sdp/mos/nclogo1567502196156.png",
+			"background": "/sdp/mos/nclogo1567502199011.png"
+		},
+		{
+			"number": 139,
+			"name": "Bridge TV Deluxe",
+			"id": 115477966,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1567502208017.png",
+			"logo": "/sdp/mos/nclogo1567502210555.png",
+			"background": "/sdp/mos/nclogo1567502213134.png"
+		},
+		{
+			"number": 140,
+			"name": "1HD Music Television",
+			"id": 121720925,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1HDMUSICTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1540376320156.png",
+			"logo": "/sdp/mos/nclogo1540376390986.png",
+			"background": "/sdp/mos/nclogo1540376394805.png"
+		},
+		{
+			"number": 141,
+			"name": "AIVA",
+			"id": 139816780,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1558627654942.png",
+			"logo": "/sdp/mos/nclogo1558627659857.png",
+			"background": "/sdp/mos/nclogo1558627662796.png"
+		},
+		{
+			"number": 142,
+			"name": "Музыка Первого",
+			"id": 158179466,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZYKAPERVOGO/variant.m3u8"
+				}
+			],
+			"themes": [
+				11
+			],
+			"full_logo": "/sdp/mos/nclogo1572275281301.png",
+			"logo": "/sdp/mos/nclogo1572275284718.png",
+			"background": "/sdp/mos/nclogo1572275287395.png"
+		},
+		{
+			"number": 143,
+			"name": "Шант Music HD",
+			"id": 137459896,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTMUSICHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1565081268822.png",
+			"logo": "/sdp/mos/nclogo1565081271440.png",
+			"background": "/sdp/mos/nclogo1565081275055.png"
+		},
+		{
+			"number": 144,
+			"name": "MTV Live HD",
+			"id": 1144561,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_MTVLIVEHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508423620377.png",
+			"logo": "/sdp/mos/nclogo1508423624254.png",
+			"background": "/sdp/mos/nclogo1508423627934.png"
+		},
+		{
+			"number": 145,
+			"name": "Mezzo Live HD",
+			"id": 1144565,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1535708188261.png",
+			"logo": "/sdp/mos/nclogo1535708191082.png",
+			"background": "/sdp/mos/nclogo1535708194370.png"
+		},
+		{
+			"number": 146,
+			"name": "iConcerts HD",
+			"id": 77742130,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ICONCERTSHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				11,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1547133256559.png",
+			"logo": "/sdp/mos/nclogo1547133260301.png",
+			"background": "/sdp/mos/nclogo1547133264090.png"
+		},
+		{
+			"number": 147,
+			"name": "Большая Азия HD",
+			"id": 100326279,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BIGASIAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508418905693.png",
+			"logo": "/sdp/mos/nclogo1508418908813.png",
+			"background": "/sdp/mos/nclogo1508418911527.png"
+		},
+		{
+			"number": 148,
+			"name": "History HD",
+			"id": 78034403,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508246596472.png",
+			"logo": "/sdp/mos/nclogo1508246600302.png",
+			"background": "/sdp/mos/nclogo1508246606115.png"
+		},
+		{
+			"number": 149,
+			"name": "Travel Channel HD",
+			"id": 115482782,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1533216246776.png",
+			"logo": "/sdp/mos/nclogo1533216249696.png",
+			"background": "/sdp/mos/nclogo1533216252638.png"
+		},
+		{
+			"number": 150,
+			"name": "National Geographic",
+			"id": 1130896,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEO/variant.m3u8"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1535620466339.png",
+			"logo": "/sdp/mos/nclogo1535620468775.png",
+			"background": "/sdp/mos/nclogo1535620473677.png"
+		},
+		{
+			"number": 151,
+			"name": "Viasat Explore HD",
+			"id": 80882991,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508934019849.png",
+			"logo": "/sdp/mos/nclogo1508934024882.png",
+			"background": "/sdp/mos/nclogo1509021842911.png"
+		},
+		{
+			"number": 152,
+			"name": "Viasat History HD",
+			"id": 80882936,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508932147059.png",
+			"logo": "/sdp/mos/nclogo1508932150166.png",
+			"background": "/sdp/mos/nclogo1508932152679.png"
+		},
+		{
+			"number": 153,
+			"name": "Nat Geo Wild HD",
+			"id": 1144529,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1504686377748.png",
+			"logo": "/sdp/mos/nclogo1504686390323.png",
+			"background": "/sdp/mos/nclogo1504686398590.png"
+		},
+		{
+			"number": 154,
+			"name": "Nat Geo Wild",
+			"id": 2370804,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEOWILD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1497532528454.png",
+			"logo": "/sdp/mos/nclogo1497532531823.png",
+			"background": "/sdp/mos/nclogo1497532535403.png"
+		},
+		{
+			"number": 155,
+			"name": "DTX HD",
+			"id": 101192514,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1516106158586.png",
+			"logo": "/sdp/mos/nclogo1516106162011.png",
+			"background": "/sdp/mos/nclogo1516106166435.png"
+		},
+		{
+			"number": 156,
+			"name": "Discovery Science HD",
+			"id": 30792224,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1536686299279.png",
+			"logo": "/sdp/mos/nclogo1536686302548.png",
+			"background": "/sdp/mos/nclogo1536686307213.png"
+		},
+		{
+			"number": 157,
+			"name": "Живая Планета",
+			"id": 84779394,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_JIVAYAPLANETA/variant.m3u8"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1508248235053.png",
+			"logo": "/sdp/mos/nclogo1508248244632.png",
+			"background": "/sdp/mos/nclogo1508248248545.png"
+		},
+		{
+			"number": 158,
+			"name": "H2 HD",
+			"id": 90813459,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1588073782616.png",
+			"logo": "/sdp/mos/nclogo1588073784884.png",
+			"background": "/sdp/mos/nclogo1588073788195.png"
+		},
+		{
+			"number": 159,
+			"name": "National Geographic HD",
+			"id": 1144525,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1504685847641.png",
+			"logo": "/sdp/mos/nclogo1504685854309.png",
+			"background": "/sdp/mos/nclogo1504685861524.png"
+		},
+		{
+			"number": 160,
+			"name": "Discovery Channel HD",
+			"id": 1144543,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1567606573248.png",
+			"logo": "/sdp/mos/nclogo1567606576529.png",
+			"background": "/sdp/mos/nclogo1567606578908.png"
+		},
+		{
+			"number": 161,
+			"name": "Animal Planet HD",
+			"id": 1144547,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1548669133906.png",
+			"logo": "/sdp/mos/nclogo1548669138194.png",
+			"background": "/sdp/mos/nclogo1548669141874.png"
+		},
+		{
+			"number": 162,
+			"name": "Investigation Discovery HD",
+			"id": 77742450,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1563187118776.png",
+			"logo": "/sdp/mos/nclogo1563187122934.png",
+			"background": "/sdp/mos/nclogo1563187125892.png"
+		},
+		{
+			"number": 163,
+			"name": "Investigation Discovery",
+			"id": 2370583,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1511533321226.png",
+			"logo": "/sdp/mos/nclogo1511533334817.png",
+			"background": "/sdp/mos/nclogo1511533339616.png"
+		},
+		{
+			"number": 164,
+			"name": "Морской HD",
+			"id": 92150591,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MORSKOYHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1544548304365.png",
+			"logo": "/sdp/mos/nclogo1544548307158.png",
+			"background": "/sdp/mos/nclogo1544548309677.png"
+		},
+		{
+			"number": 165,
+			"name": "Viasat Nature HD",
+			"id": 104701055,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATNATUREHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1520957042223.png",
+			"logo": "/sdp/mos/nclogo1520957062292.png",
+			"background": "/sdp/mos/nclogo1520957075085.png"
+		},
+		{
+			"number": 166,
+			"name": "Доктор",
+			"id": 2350181,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_24DOC/variant.m3u8"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1508931970937.png",
+			"logo": "/sdp/mos/nclogo1508931977291.png",
+			"background": "/sdp/mos/nclogo1508931983630.png"
+		},
+		{
+			"number": 167,
+			"name": "ZooПарк",
+			"id": 96581917,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZOOPARK/variant.m3u8"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1520958807745.png",
+			"logo": "/sdp/mos/nclogo1520958864137.png",
+			"background": "/sdp/mos/nclogo1520958870852.png"
+		},
+		{
+			"number": 168,
+			"name": "Ocean-TV",
+			"id": 174302170,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_OCEANTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1584446942924.png",
+			"logo": "/sdp/mos/nclogo1584446945067.png",
+			"background": "/sdp/mos/nclogo1584446948988.png"
+		},
+		{
+			"number": 169,
+			"name": "Загородная жизнь HD",
+			"id": 165095168,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZAGORODNAYAZHIZNHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1578653814522.png",
+			"logo": "/sdp/mos/nclogo1578653816896.png",
+			"background": "/sdp/mos/nclogo1578653819841.png"
+		},
+		{
+			"number": 170,
+			"name": "Тайны Галактики",
+			"id": 136126766,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1556085221587.png",
+			"logo": "/sdp/mos/nclogo1556085224880.png",
+			"background": "/sdp/mos/nclogo1556085228102.png"
+		},
+		{
+			"number": 171,
+			"name": "Нано HD",
+			"id": 126125729,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NANOHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1547135509422.png",
+			"logo": "/sdp/mos/nclogo1547135515956.png",
+			"background": "/sdp/mos/nclogo1547135519814.png"
+		},
+		{
+			"number": 172,
+			"name": "Живая природа",
+			"id": 160772386,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVAYAPRIRODAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1574337312666.png",
+			"logo": "/sdp/mos/nclogo1574337315945.png",
+			"background": "/sdp/mos/nclogo1574337318342.png"
+		},
+		{
+			"number": 173,
+			"name": "Глазами туриста",
+			"id": 160772212,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1574337364513.png",
+			"logo": "/sdp/mos/nclogo1574337368325.png",
+			"background": "/sdp/mos/nclogo1574337371581.png"
+		},
+		{
+			"number": 174,
+			"name": "TV BRICS",
+			"id": 171810637,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BRICSTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1581924360780.png",
+			"logo": "/sdp/mos/nclogo1581924362839.png",
+			"background": "/sdp/mos/nclogo1581924367023.png"
+		},
+		{
+			"number": 175,
+			"name": "Travel+Adventure HD",
+			"id": 1144533,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1591627431875.png",
+			"logo": "/sdp/mos/nclogo1591627433802.png",
+			"background": "/sdp/mos/nclogo1508246724940.png"
+		},
+		{
+			"number": 176,
+			"name": "myZen.tv HD",
+			"id": 1144537,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MYZENTVHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1497612566763.png",
+			"logo": "/sdp/mos/nclogo1497612571282.png",
+			"background": "/sdp/mos/nclogo1497612575774.png"
+		},
+		{
+			"number": 177,
+			"name": "Viasat Nature HD/History HD",
+			"id": 7862873,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1549304117657.png",
+			"logo": "/sdp/mos/nclogo1549304120390.png",
+			"background": "/sdp/mos/nclogo1549304126133.png"
+		},
+		{
+			"number": 178,
+			"name": "Моя Планета HD",
+			"id": 71711934,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1575272794154.png",
+			"logo": "/sdp/mos/nclogo1575272795318.png",
+			"background": "/sdp/mos/nclogo1575272798670.png"
+		},
+		{
+			"number": 179,
+			"name": "Museum HD",
+			"id": 77742050,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUSEUMHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1565112177998.png",
+			"logo": "/sdp/mos/nclogo1565112183973.png",
+			"background": "/sdp/mos/nclogo1565112187301.png"
+		},
+		{
+			"number": 180,
+			"name": "RTG HD",
+			"id": 77742315,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508922849628.png",
+			"logo": "/sdp/mos/nclogo1508922855351.png",
+			"background": "/sdp/mos/nclogo1508922858196.png"
+		},
+		{
+			"number": 181,
+			"name": "RTД HD",
+			"id": 77742671,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1508423340749.png",
+			"logo": "/sdp/mos/nclogo1508423344687.png",
+			"background": "/sdp/mos/nclogo1508423347604.png"
+		},
+		{
+			"number": 182,
+			"name": "Love Nature 4K",
+			"id": 134777691,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8"
+				}
+			],
+			"themes": [
+				4,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1571404237966.png",
+			"logo": "/sdp/mos/nclogo1571404241297.png",
+			"background": "/sdp/mos/nclogo1571404265149.png"
+		},
+		{
+			"number": 184,
+			"name": "Известия HD",
+			"id": 77742527,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				2,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1543571854883.png",
+			"logo": "/sdp/mos/nclogo1543571857318.png",
+			"background": "/sdp/mos/nclogo1543571860049.png"
+		},
+		{
+			"number": 185,
+			"name": "Euronews",
+			"id": 1130935,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8"
+				}
+			],
+			"themes": [
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1542017564849.png",
+			"logo": "/sdp/mos/nclogo1542017567886.png",
+			"background": "/sdp/mos/nclogo1542017571286.png"
+		},
+		{
+			"number": 186,
+			"name": "РБК-ТВ",
+			"id": 1130925,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/variant.m3u8"
+				}
+			],
+			"themes": [
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1536614625374.png",
+			"logo": "/sdp/mos/nclogo1536614630532.png",
+			"background": "/sdp/mos/nclogo1536614634764.png"
+		},
+		{
+			"number": 187,
+			"name": "Мир 24",
+			"id": 2370986,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR24/variant.m3u8"
+				}
+			],
+			"themes": [
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1536614122484.png",
+			"logo": "/sdp/mos/nclogo1536614125323.png",
+			"background": "/sdp/mos/nclogo1536614129637.png"
+		},
+		{
+			"number": 188,
+			"name": "360° HD",
+			"id": 7937480,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				2,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1524557207303.png",
+			"logo": "/sdp/mos/nclogo1524557210653.png",
+			"background": "/sdp/mos/nclogo1524557213973.png"
+		},
+		{
+			"number": 189,
+			"name": "ВМЕСТЕ-РФ",
+			"id": 21741731,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/variant.m3u8"
+				}
+			],
+			"themes": [
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1535892504685.png",
+			"logo": "/sdp/mos/nclogo1535892507201.png",
+			"background": "/sdp/mos/nclogo1535892510245.png"
+		},
+		{
+			"number": 190,
+			"name": "ЛДПР ТВ",
+			"id": 91983977,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_LDPR/variant.m3u8"
+				}
+			],
+			"themes": [
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1515662624685.png",
+			"logo": "/sdp/mos/nclogo1515662627309.png",
+			"background": "/sdp/mos/nclogo1515662629860.png"
+		},
+		{
+			"number": 191,
+			"name": "Красная Линия",
+			"id": 101745269,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_REDLINE/variant.m3u8"
+				}
+			],
+			"themes": [
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1515662672514.png",
+			"logo": "/sdp/mos/nclogo1515662674875.png",
+			"background": "/sdp/mos/nclogo1515662678360.png"
+		},
+		{
+			"number": 192,
+			"name": "360 Новости",
+			"id": 115567629,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				2,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1533293011586.png",
+			"logo": "/sdp/mos/nclogo1533293014777.png",
+			"background": "/sdp/mos/nclogo1524557213973.png"
+		},
+		{
+			"number": 193,
+			"name": "Дума ТВ",
+			"id": 162062755,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DUMATV/variant.m3u8"
+				}
+			],
+			"themes": [
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1576048672199.png",
+			"logo": "/sdp/mos/nclogo1576048675076.png",
+			"background": "/sdp/mos/nclogo1576048677871.png"
+		},
+		{
+			"number": 194,
+			"name": "English Club HD",
+			"id": 123326084,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLUBHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				6,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1551429255318.png",
+			"logo": "/sdp/mos/nclogo1551429255691.png",
+			"background": "/sdp/mos/nclogo1551429263233.png"
+		},
+		{
+			"number": 195,
+			"name": "Первый образовательный",
+			"id": 2371379,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1497532768390.png",
+			"logo": "/sdp/mos/nclogo1497532777288.png",
+			"background": "/sdp/mos/nclogo1497532780538.png"
+		},
+		{
+			"number": 196,
+			"name": "Первый образовательный",
+			"id": 2371379,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1497532768390.png",
+			"logo": "/sdp/mos/nclogo1497532777288.png",
+			"background": "/sdp/mos/nclogo1497532780538.png"
+		},
+		{
+			"number": 197,
+			"name": "Просвещение",
+			"id": 2371416,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/variant.m3u8"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1509023562186.png",
+			"logo": "/sdp/mos/nclogo1509023565411.png",
+			"background": "/sdp/mos/nclogo1509023567754.png"
+		},
+		{
+			"number": 198,
+			"name": "Da Vinci",
+			"id": 2370547,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCILEARNING/variant.m3u8"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1524818655935.png",
+			"logo": "/sdp/mos/nclogo1524818660101.png",
+			"background": "/sdp/mos/nclogo1524818662889.png"
+		},
+		{
+			"number": 199,
+			"name": "Первый канал",
+			"id": 1000069,
+			"is_barker": true,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "/sdp/ct/nclogo1529397835779.png",
+			"background": "/sdp/ct/nclogo1529398136584.png"
+		},
+		{
+			"number": 200,
+			"name": "Россия 1",
+			"id": 1000174,
+			"is_barker": true,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"logo": "/sdp/ct/nclogo1497429985262.png",
+			"background": "/sdp/ct/nclogo1497429990175.png"
+		},
+		{
+			"number": 201,
+			"name": "НТВ",
+			"id": 1000179,
+			"is_barker": true,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/ct/nclogo1524737541364.png",
+			"logo": "/sdp/ct/nclogo1524737543637.png",
+			"background": "/sdp/ct/nclogo1524737547270.png"
+		},
+		{
+			"number": 202,
+			"name": "Пятый канал",
+			"id": 1000189,
+			"is_barker": false,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/ct/nclogo1536600415211.png",
+			"logo": "/sdp/ct/nclogo1536600418177.png",
+			"background": "/sdp/ct/nclogo1536600420700.png"
+		},
+		{
+			"number": 203,
+			"name": "Россия К",
+			"id": 1000194,
+			"is_barker": false,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/ct/nclogo1497430120145.png",
+			"logo": "/sdp/ct/nclogo1497430123838.png",
+			"background": "/sdp/ct/nclogo1497430128378.png"
+		},
+		{
+			"number": 204,
+			"name": "Россия 24",
+			"id": 1000184,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8"
+				}
+			],
+			"themes": [
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1497528181419.png",
+			"logo": "/sdp/mos/nclogo1497528186009.png",
+			"background": "/sdp/mos/nclogo1497528189465.png"
+		},
+		{
+			"number": 205,
+			"name": "ТВ Центр",
+			"id": 1125456,
+			"is_barker": false,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/ct/nclogo1536609967851.png",
+			"logo": "/sdp/ct/nclogo1536609970717.png",
+			"background": "/sdp/ct/nclogo1536609973808.png"
+		},
+		{
+			"number": 206,
+			"name": "ОТР",
+			"id": 17349814,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1536676739922.png",
+			"logo": "/sdp/mos/nclogo1536676743005.png",
+			"background": "/sdp/mos/nclogo1536676746622.png"
+		},
+		{
+			"number": 207,
+			"name": "РЕН ТВ",
+			"id": 1125460,
+			"is_barker": true,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/ct/nclogo1532358088298.png",
+			"logo": "/sdp/ct/nclogo1532358092002.png",
+			"background": "/sdp/ct/nclogo1532358094724.png"
+		},
+		{
+			"number": 208,
+			"name": "Спас",
+			"id": 1144472,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8"
+				}
+			],
+			"themes": [
+				1,
+				13
+			],
+			"full_logo": "/sdp/mos/nclogo1569483524977.png",
+			"logo": "/sdp/mos/nclogo1569483527545.png",
+			"background": "/sdp/mos/nclogo1569483530285.png"
+		},
+		{
+			"number": 209,
+			"name": "СТС",
+			"id": 1125464,
+			"is_barker": false,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+				}
+			],
+			"themes": [
+				1,
+				3
+			],
+			"full_logo": "/sdp/ct/nclogo1533311356055.png",
+			"logo": "/sdp/ct/nclogo1533311357943.png",
+			"background": "/sdp/ct/nclogo1533311359954.png"
+		},
+		{
+			"number": 210,
+			"name": "Домашний",
+			"id": 1125469,
+			"is_barker": false,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
+				}
+			],
+			"themes": [
+				10
+			],
+			"full_logo": "/sdp/ct/nclogo1519580577683.png",
+			"logo": "/sdp/ct/nclogo1519580580971.png",
+			"background": "/sdp/ct/nclogo1519580584802.png"
+		},
+		{
+			"number": 211,
+			"name": "ТВ 3",
+			"id": 1058216,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1507133404466.png",
+			"logo": "/sdp/mos/nclogo1507133412411.png",
+			"background": "/sdp/mos/nclogo1507133418445.png"
+		},
+		{
+			"number": 212,
+			"name": "Пятница!",
+			"id": 1130915,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1522312220352.png",
+			"logo": "/sdp/mos/nclogo1522312245447.png",
+			"background": "/sdp/mos/nclogo1522312262057.png"
+		},
+		{
+			"number": 213,
+			"name": "Звезда",
+			"id": 1125476,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1536610730242.png",
+			"logo": "/sdp/mos/nclogo1536610733090.png",
+			"background": "/sdp/mos/nclogo1536610736043.png"
+		},
+		{
+			"number": 214,
+			"name": "Мир",
+			"id": 1130945,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1508243678871.png",
+			"logo": "/sdp/mos/nclogo1508243685149.png",
+			"background": "/sdp/mos/nclogo1508243691118.png"
+		},
+		{
+			"number": 215,
+			"name": "Мир Premium HD",
+			"id": 77742501,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/variant.m3u8"
+				}
+			],
+			"themes": [
+				1,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1549303075353.png",
+			"logo": "/sdp/mos/nclogo1549303078224.png",
+			"background": "/sdp/mos/nclogo1549303081123.png"
+		},
+		{
+			"number": 216,
+			"name": "Эхо-ТВ",
+			"id": 90818054,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1501847627832.png",
+			"logo": "/sdp/mos/nclogo1501847630533.png",
+			"background": "/sdp/mos/nclogo1501847632845.png"
+		},
+		{
+			"number": 217,
+			"name": "ТНТ",
+			"id": 1000209,
+			"is_barker": true,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1525334027576.png",
+			"logo": "/sdp/mos/nclogo1525334031783.png",
+			"background": "/sdp/mos/nclogo1504536487832.png"
+		},
+		{
+			"number": 218,
+			"name": "Муз ТВ",
+			"id": 1125412,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1536675148376.png",
+			"logo": "/sdp/mos/nclogo1536675153566.png",
+			"background": "/sdp/mos/nclogo1536675157511.png"
+		},
+		{
+			"number": 219,
+			"name": "Первый канал (+1)",
+			"id": 1000069,
+			"is_barker": false,
+			"description": "vlg",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "/sdp/ct/nclogo1529397835779.png",
+			"background": "/sdp/ct/nclogo1529398136584.png"
+		},
+		{
+			"number": 220,
+			"name": "Первый канал (+2)",
+			"id": 1000531,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "/sdp/ct/nclogo1529397835779.png",
+			"background": "/sdp/ct/nclogo1529398136584.png"
+		},
+		{
+			"number": 221,
+			"name": "Первый канал (+3)",
+			"id": 1000069,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "/sdp/ct/nclogo1529397835779.png",
+			"background": "/sdp/ct/nclogo1529398136584.png"
+		},
+		{
+			"number": 222,
+			"name": "Первый канал (+4)",
+			"id": 1000069,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"логотип": " / sdp/ct / nclogo1529397835779.png",
+			"фон": "/sdp/ct / nclogo1529398136584.формат PNG"
+		},
+		{
+			"количество": 223,
+			"имя": "Первый канал (+5)",
+			"id": 1000069,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "/sdp/ct/nclogo1529397835779.png",
+			"background": "/sdp/ct/nclogo1529398136584.png"
+		},
+		{
+			"number": 224,
+			"name": "Первый канал (+6)",
+			"id": 325760829,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "/sdp/ct/nclogo1529397835779.png",
+			"background": "/sdp/ct/nclogo1529398136584.png"
+		},
+		{
+			"number": 225,
+			"name": "Первый канал (+7)",
+			"id": 325760829,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://s91030.cdn.ngenix.net/hls/CH_R03_OTT_DV_VLD_1TV_OTT/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "/sdp/ct/nclogo1529397835779.png",
+			"background": "/sdp/ct/nclogo1529398136584.png"
+		},
+		{
+			"number": 226,
+			"name": "Первый канал (+8)",
+			"id": 264212699,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "/sdp/ct/nclogo1529397835779.png",
+			"background": "/sdp/ct/nclogo1529398136584.png"
+		},
+		{
+			"number": 227,
+			"name": "Первый канал (+9)",
+			"id": 325760829,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://s14131.cdn.ngenix.net/hls/CH_R03_1TV_PKAM_OTT/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "/sdp/ct/nclogo1529397835779.png",
+			"background": "/sdp/ct/nclogo1529398136584.png"
+		},
+		{
+			"number": 228,
+			"name": "Россия 1 HD",
+			"id": 11989811,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8"
+				}
+			],
+			"themes": [
+				1,
+				19
+			],
+			"full_logo": "/sdp/mos/nclogo1497612738365.png",
+			"logo": "/sdp/mos/nclogo1497612742337.png",
+			"background": "/sdp/mos/nclogo1497612746491.png"
+		},
+		
+		{
+			"number": 229,
+			"name": "Россия 1 (+1)",
+			"id": 1000174,
+			"is_barker": false,
+			"description": "vlg",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"logo": "/sdp/ct/nclogo1497429985262.png",
+			"background": "/sdp/ct/nclogo1497429990175.png"
+		},
+		{
+			"number": 230,
+			"name": "Россия 1 (+2)",
+			"id": 1000527,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"logo": "/sdp/ct/nclogo1497429985262.png",
+			"background": "/sdp/ct/nclogo1497429990175.png"
+		},
+		{
+			"number": 231,
+			"name": "Россия 1 (+3)",
+			"id": 1000174,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"logo": "/sdp/ct/nclogo1497429985262.png",
+			"background": "/sdp/ct/nclogo1497429990175.png"
+		},
+		{
+			"number": 232,
+			"name": "Россия 1 (+4)",
+			"id": 1000174,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"logo": "/sdp/ct/nclogo1497429985262.png",
+			"background": "/sdp/ct/nclogo1497429990175.png"
+		},
+		{
+			"number": 233,
+			"name": "Россия 1 (+5)",
+			"id": 1000174,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"logo": "/sdp/ct/nclogo1497429985262.png",
+			"background": "/sdp/ct/nclogo1497429990175.png"
+		},
+		{
+			"number": 234,
+			"name": "Россия 1 (+6)",
+			"id": 350819095,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"logo": "/sdp/ct/nclogo1497429985262.png",
+			"background": "/sdp/ct/nclogo1497429990175.png"
+		},
+		{
+			"number": 235,
+			"name": "Россия 1 (+7)",
+			"id": 350819095,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_ROSSIA1_OTT/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"logo": "/sdp/ct/nclogo1497429985262.png",
+			"background": "/sdp/ct/nclogo1497429990175.png"
+		},
+		{
+			"number": 236,
+			"name": "Россия 1 (+8)",
+			"id": 350819095,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://s20441.cdn.ngenix.net/hls/CH_R04_OTT_DV_MGDN_ROSSIA1_MGDN_OTT/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"logo": "/sdp/ct/nclogo1497429985262.png",
+			"background": "/sdp/ct/nclogo1497429990175.png"
+		},
+		{
+			"number": 237,
+			"name": "Россия 1 (+9)",
+			"id": 350819095,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"logo": "/sdp/ct/nclogo1497429985262.png",
+			"background": "/sdp/ct/nclogo1497429990175.png"
+		},
+		{
+			"number": 238,
+			"name": "НТВ (+2)",
+			"id": 1074889,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1524737541364.png",
+			"logo": "/sdp/ct/nclogo1524737543637.png",
+			"background": "/sdp/ct/nclogo1524737547270.png"
+		},
+		{
+			"number": 239,
+			"name": "НТВ (+4)",
+			"id": 1000179,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1524737541364.png",
+			"logo": "/sdp/ct/nclogo1524737543637.png",
+			"background": "/sdp/ct/nclogo1524737547270.png"
+		},
+		{
+			"number": 240,
+			"name": "НТВ (+7)",
+			"id": 322680075,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1524737541364.png",
+			"logo": "/sdp/ct/nclogo1524737543637.png",
+			"background": "/sdp/ct/nclogo1524737547270.png"
+		},
+		
+		{
+			"number": 241,
+			"name": "Пятый канал (+2)",
+			"id": 1074812,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1536600415211.png",
+			"logo": "/sdp/ct/nclogo1536600418177.png",
+			"background": "/sdp/ct/nclogo1536600420700.png"
+		},
+		{
+			"number": 242,
+			"name": "Пятый канал (+4)",
+			"id": 1000189,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1536600415211.png",
+			"logo": "/sdp/ct/nclogo1536600418177.png",
+			"background": "/sdp/ct/nclogo1536600420700.png"
+		},
+		{
+			"number": 243,
+			"name": "Пятый канал (+7)",
+			"id": 352455932,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1536600415211.png",
+			"logo": "/sdp/ct/nclogo1536600418177.png",
+			"background": "/sdp/ct/nclogo1536600420700.png"
+		},
+		
+		{
+			"number": 244,
+			"name": "Россия К (+2)",
+			"id": 1000194,
+			"is_barker": false,
+			"description": "vlg",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497430120145.png",
+			"logo": "/sdp/ct/nclogo1497430123838.png",
+			"background": "/sdp/ct/nclogo1497430128378.png"
+		},
+		{
+			"number": 245,
+			"name": "Россия К (+4)",
+			"id": 1000194,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497430120145.png",
+			"logo": "/sdp/ct/nclogo1497430123838.png",
+			"background": "/sdp/ct/nclogo1497430128378.png"
+		},
+		{
+			"number": 246,
+			"name": "Россия К (+7)",
+			"id": 352456999,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1497430120145.png",
+			"logo": "/sdp/ct/nclogo1497430123838.png",
+			"background": "/sdp/ct/nclogo1497430128378.png"
+		},
+		{
+			"number": 247,
+			"name": "Карусель (+2)",
+			"id": 1000204,
+			"is_barker": false,
+			"description": "vlg",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1506684533126.png",
+			"logo": "/sdp/mos/nclogo1506684548231.png",
+			"background": "/sdp/mos/nclogo1506684567536.png"
+		},
+		{
+			"number": 248,
+			"name": "Карусель (+4)",
+			"id": 1000204,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1506684533126.png",
+			"logo": "/sdp/mos/nclogo1506684548231.png",
+			"background": "/sdp/mos/nclogo1506684567536.png"
+		},
+		{
+			"number": 249,
+			"name": "Карусель (+7)",
+			"id": 326123843,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1506684533126.png",
+			"logo": "/sdp/mos/nclogo1506684548231.png",
+			"background": "/sdp/mos/nclogo1506684567536.png"
+		},
+		
+		
+		{
+			"number": 250,
+			"name": "ТВ Центр (+2)",
+			"id": 1000522,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1536609967851.png",
+			"logo": "/sdp/ct/nclogo1536609970717.png",
+			"background": "/sdp/ct/nclogo1536609973808.png"
+		},
+		{
+			"number": 251,
+			"name": "ТВ Центр (+4)",
+			"id": 1125456,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1536609967851.png",
+			"logo": "/sdp/ct/nclogo1536609970717.png",
+			"background": "/sdp/ct/nclogo1536609973808.png"
+		},
+		{
+			"number": 252,
+			"name": "ТВ Центр (+7)",
+			"id": 352461811,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1536609967851.png",
+			"logo": "/sdp/ct/nclogo1536609970717.png",
+			"background": "/sdp/ct/nclogo1536609973808.png"
+		},
+		{
+			"number": 253,
+			"name": "РЕН ТВ (+2)",
+			"id": 15771365,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1532358088298.png",
+			"logo": "/sdp/ct/nclogo1532358092002.png",
+			"background": "/sdp/ct/nclogo1532358094724.png"
+		},
+		{
+			"number": 254,
+			"name": "РЕН ТВ (+4)",
+			"id": 1125460,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1532358088298.png",
+			"logo": "/sdp/ct/nclogo1532358092002.png",
+			"background": "/sdp/ct/nclogo1532358094724.png"
+		},
+		{
+			"number": 255,
+			"name": "РЕН ТВ (+7)",
+			"id": 326124717,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1532358088298.png",
+			"logo": "/sdp/ct/nclogo1532358092002.png",
+			"background": "/sdp/ct/nclogo1532358094724.png"
+		},
+		
+		{
+			"number": 256,
+			"name": "СТС (+2)",
+			"id": 9341972,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1533311356055.png",
+			"logo": "/sdp/ct/nclogo1533311357943.png",
+			"background": "/sdp/ct/nclogo1533311359954.png"
+		},
+		{
+			"number": 257,
+			"name": "СТС (+4)",
+			"id": 1125464,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1533311356055.png",
+			"logo": "/sdp/ct/nclogo1533311357943.png",
+			"background": "/sdp/ct/nclogo1533311359954.png"
+		},
+		{
+			"number": 258,
+			"name": "СТС (+7)",
+			"id": 322678952,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1533311356055.png",
+			"logo": "/sdp/ct/nclogo1533311357943.png",
+			"background": "/sdp/ct/nclogo1533311359954.png"
+		},
+		{
+			"number": 259,
+			"name": "Домашний (+2)",
+			"id": 1120409,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1519580577683.png",
+			"logo": "/sdp/ct/nclogo1519580580971.png",
+			"background": "/sdp/ct/nclogo1519580584802.png"
+		},
+		{
+			"number": 260,
+			"name": "Домашний (+4)",
+			"id": 1125469,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1519580577683.png",
+			"logo": "/sdp/ct/nclogo1519580580971.png",
+			"background": "/sdp/ct/nclogo1519580584802.png"
+		},
+		{
+			"number": 261,
+			"name": "Домашний (+7)",
+			"id": 326126317,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1519580577683.png",
+			"logo": "/sdp/ct/nclogo1519580580971.png",
+			"background": "/sdp/ct/nclogo1519580584802.png"
+		},
+		
+		{
+			"number": 262,
+			"name": "ТВ 3 (+2)",
+			"id": 1120769,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1507133404466.png",
+			"logo": "/sdp/mos/nclogo1507133412411.png",
+			"background": "/sdp/mos/nclogo1507133418445.png"
+		},
+		{
+			"number": 263,
+			"name": "ТВ 3 (+4)",
+			"id": 1058216,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1507133404466.png",
+			"logo": "/sdp/mos/nclogo1507133412411.png",
+			"background": "/sdp/mos/nclogo1507133418445.png"
+		},
+		{
+			"number": 264,
+			"name": "ТВ 3 (+7)",
+			"id": 326125551,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1507133404466.png",
+			"logo": "/sdp/mos/nclogo1507133412411.png",
+			"background": "/sdp/mos/nclogo1507133418445.png"
+		},
+		
+		{
+			"number": 265,
+			"name": "Пятница! (+2)",
+			"id": 1074875,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1522312220352.png",
+			"logo": "/sdp/mos/nclogo1522312245447.png",
+			"background": "/sdp/mos/nclogo1522312262057.png"
+		},
+		{
+			"number": 266,
+			"name": "Пятница! (+4)",
+			"id": 1130915,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1522312220352.png",
+			"logo": "/sdp/mos/nclogo1522312245447.png",
+			"background": "/sdp/mos/nclogo1522312262057.png"
+		},
+		{
+			"number": 267,
+			"name": "Пятница! (+7)",
+			"id": 352467730,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1522312220352.png",
+			"logo": "/sdp/mos/nclogo1522312245447.png",
+			"background": "/sdp/mos/nclogo1522312262057.png"
+		},
+		
+		{
+			"number": 268,
+			"name": "Звезда (+2)",
+			"id": 1000530,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1536610730242.png",
+			"logo": "/sdp/mos/nclogo1536610733090.png",
+			"background": "/sdp/mos/nclogo1536610736043.png"
+		},
+		{
+			"number": 269,
+			"name": "Звезда (+4)",
+			"id": 1125476,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1536610730242.png",
+			"logo": "/sdp/mos/nclogo1536610733090.png",
+			"background": "/sdp/mos/nclogo1536610736043.png"
+		},
+		{
+			"number": 270,
+			"name": "Звезда (+7)",
+			"id": 353481552,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1536610730242.png",
+			"logo": "/sdp/mos/nclogo1536610733090.png",
+			"background": "/sdp/mos/nclogo1536610736043.png"
+		},
+		
+		
+		{
+			"number": 271,
+			"name": "Мир (+2)",
+			"id": 1130945,
+			"is_barker": false,
+			"description": "vlg",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1508243678871.png",
+			"logo": "/sdp/mos/nclogo1508243685149.png",
+			"background": "/sdp/mos/nclogo1508243691118.png"
+		},
+		{
+			"number": 272,
+			"name": "Мир (+4)",
+			"id": 1130945,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1508243678871.png",
+			"logo": "/sdp/mos/nclogo1508243685149.png",
+			"background": "/sdp/mos/nclogo1508243691118.png"
+		},
+		{
+			"number": 273,
+			"name": "Мир (+7)",
+			"id": 353482656,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1508243678871.png",
+			"logo": "/sdp/mos/nclogo1508243685149.png",
+			"background": "/sdp/mos/nclogo1508243691118.png"
+		},
+		{
+			"number": 274,
+			"name": "ТНТ (+2)",
+			"id": 1000532,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1525334027576.png",
+			"logo": "/sdp/mos/nclogo1525334031783.png",
+			"background": "/sdp/mos/nclogo1504536487832.png"
+		},
+		{
+			"number": 275,
+			"name": "ТНТ (+4)",
+			"id": 1000209,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1525334027576.png",
+			"logo": "/sdp/mos/nclogo1525334031783.png",
+			"background": "/sdp/mos/nclogo1504536487832.png"
+		},
+		{
+			"number": 276,
+			"name": "ТНТ (+7)",
+			"id": 322176675,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1525334027576.png",
+			"logo": "/sdp/mos/nclogo1525334031783.png",
+			"background": "/sdp/mos/nclogo1504536487832.png"
+		},
+		
+		{
+			"number": 277,
+			"name": "Муз ТВ (+2)",
+			"id": 1120840,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1536675148376.png",
+			"logo": "/sdp/mos/nclogo1536675153566.png",
+			"background": "/sdp/mos/nclogo1536675157511.png"
+		},
+		{
+			"number": 278,
+			"name": "Муз ТВ (+4)",
+			"id": 25376361,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1536675148376.png",
+			"logo": "/sdp/mos/nclogo1536675153566.png",
+			"background": "/sdp/mos/nclogo1536675157511.png"
+		},
+		{
+			"number": 289,
+			"name": "Муз ТВ (+7)",
+			"id": 25376361,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1536675148376.png",
+			"logo": "/sdp/mos/nclogo1536675153566.png",
+			"background": "/sdp/mos/nclogo1536675157511.png"
+		},
+		{
+			"number": 290,
+			"name": "Че! (+2)",
+			"id": 1120238,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1549532917385.png",
+			"logo": "/sdp/ct/nclogo1549532920459.png",
+			"background": "/sdp/ct/nclogo1549532924136.png"
+		},
+		{
+			"number": 291,
+			"name": "Че! (+4)",
+			"id": 27782759,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1549532917385.png",
+			"logo": "/sdp/ct/nclogo1549532920459.png",
+			"background": "/sdp/ct/nclogo1549532924136.png"
+		},
+		{
+			"number": 292,
+			"name": "Че! (+7)",
+			"id": 27782759,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1549532917385.png",
+			"logo": "/sdp/ct/nclogo1549532920459.png",
+			"background": "/sdp/ct/nclogo1549532924136.png"
+		},
+		{
+			"number": 293,
+			"name": "Ю (+2)",
+			"id": 1125465,
+			"is_barker": false,
+			"description": "vlg",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1536331049265.png",
+			"logo": "/sdp/ct/nclogo1536331052786.png",
+			"background": "/sdp/ct/nclogo1536331055655.png"
+		},
+		{
+			"number": 294,
+			"name": "Ю (+4)",
+			"id": 1125465,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1536331049265.png",
+			"logo": "/sdp/ct/nclogo1536331052786.png",
+			"background": "/sdp/ct/nclogo1536331055655.png"
+		},
+		{
+			"number": 295,
+			"name": "Ю (+7)",
+			"id": 52927,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1536331049265.png",
+			"logo": "/sdp/ct/nclogo1536331052786.png",
+			"background": "/sdp/ct/nclogo1536331055655.png"
+		},
+		{
+			"number": 296,
+			"name": "Супер (+2)",
+			"id": 241912053,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1536562890779.png",
+			"logo": "/sdp/mos/nclogo1536562894631.png",
+			"background": "/sdp/mos/nclogo1536562899324.png"
+		},
+		{
+			"number": 297,
+			"name": "Супер (+4)",
+			"id": 251519201,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1536562890779.png",
+			"logo": "/sdp/mos/nclogo1536562894631.png",
+			"background": "/sdp/mos/nclogo1536562899324.png"
+		},
+		{
+			"number": 298,
+			"name": "Супер (+7)",
+			"id": 343485335,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1536562890779.png",
+			"logo": "/sdp/mos/nclogo1536562894631.png",
+			"background": "/sdp/mos/nclogo1536562899324.png"
+		},
+		{
+			"number": 299,
+			"name": "СТС Love (+2)",
+			"id": 1130957,
+			"is_barker": false,
+			"description": "vlg",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1560865516031.png",
+			"logo": "/sdp/mos/nclogo1560865519500.png",
+			"background": "/sdp/mos/nclogo1560865521853.png"
+		},
+		{
+			"number": 300,
+			"name": "СТС Love (+7)",
+			"id": 100453016,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1560865516031.png",
+			"logo": "/sdp/mos/nclogo1560865519500.png",
+			"background": "/sdp/mos/nclogo1560865521853.png"
+		},
+		{
+			"number": 301,
+			"name": "Мужской (+6)",
+			"id": 170172127,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY_6/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1551429285309.png",
+			"logo": "/sdp/mos/nclogo1551429286237.png",
+			"background": "/sdp/mos/nclogo1551429293231.png"
+		},
+		{
+			"number": 302,
+			"name": "Канал Disney (+4)",
+			"id": 1144307,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1544172455207.png",
+			"logo": "/sdp/ct/nclogo1544172458207.png",
+			"background": "/sdp/ct/nclogo1544172461460.png"
+		},
+		{
+			"number": 303,
+			"name": "Канал Disney (+7)",
+			"id": 52920,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1544172455207.png",
+			"logo": "/sdp/ct/nclogo1544172458207.png",
+			"background": "/sdp/ct/nclogo1544172461460.png"
+		},
+		{
+			"number": 304,
+			"name": "2x2 (+2)",
+			"id": 1000533,
+			"is_barker": false,
+			"description": "ural",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1508250192087.png",
+			"logo": "/sdp/mos/nclogo1508250196734.png",
+			"background": "/sdp/mos/nclogo1508250201129.png"
+		},
+		{
+			"number": 305,
+			"name": "2x2 (+4)",
+			"id": 1144360,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1508250192087.png",
+			"logo": "/sdp/mos/nclogo1508250196734.png",
+			"background": "/sdp/mos/nclogo1508250201129.png"
+		},
+		{
+			"number": 306,
+			"name": "2x2 (+7)",
+			"id": 52891,
+			"is_barker": false,
+			"description": "dv",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1508250192087.png",
+			"logo": "/sdp/mos/nclogo1508250196734.png",
+			"background": "/sdp/mos/nclogo1508250201129.png"
+		},
+		{
+			"number": 307,
+			"name": "ТНТ4 (+2)",
+			"id": 1144368,
+			"is_barker": false,
+			"description": "vlg",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1534762634936.png",
+			"logo": "/sdp/mos/nclogo1534762637459.png",
+			"background": "/sdp/mos/nclogo1534762640188.png"
+		},
+		{
+			"number": 308,
+			"name": "ТНТ4 (+4)",
+			"id": 150603061,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1534762634936.png",
+			"logo": "/sdp/mos/nclogo1534762637459.png",
+			"background": "/sdp/mos/nclogo1534762640188.png"
+		},
+		{
+			"number": 309,
+			"name": "ТНТ4 (+7)",
+			"id": 150603061,
+			"is_barker": false,
+			"description": "sib",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8"
+				}
+			],
+			"themes": [
+				15
+			],
+			"full_logo": "/sdp/mos/nclogo1534762634936.png",
+			"logo": "/sdp/mos/nclogo1534762637459.png",
+			"background": "/sdp/mos/nclogo1534762640188.png"
+		},
+		{
+			"number": 310,
+			"name": "NY (5th Avenue)",
+			"id": 1144495,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://videos3.earthcam.com/fecnetwork/15294.flv/chunklist_w411913482.m3u8"
+				}
+			],
+			"themes": [
+				18
+			],
+			"full_logo": "/sdp/mos/nclogo1524671423878.png",
+			"logo": "/sdp/mos/nclogo1524671426982.png",
+			"background": "/sdp/mos/nclogo1524671429983.png"
+		},
+		{
+			"number": 311,
+			"name": "NY(Times Square 1)",
+			"id": 1144495,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8"
+				}
+			],
+			"themes": [
+				18
+			],
+			"full_logo": "/sdp/mos/nclogo1524671423878.png",
+			"logo": "/sdp/mos/nclogo1524671426982.png",
+			"background": "/sdp/mos/nclogo1524671429983.png"
+		},
+		{
+			"number": 312,
+			"name": "NY(Times Square 2)",
+			"id": 1144495,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8"
+				}
+			],
+			"themes": [
+				18
+			],
+			"full_logo": "/sdp/mos/nclogo1524671423878.png",
+			"logo": "/sdp/mos/nclogo1524671426982.png",
+			"background": "/sdp/mos/nclogo1524671429983.png"
+		},
+		{
+			"number": 313,
+			"name": "Rome(Piazza Navona)",
+			"id": 1144495,
+			"is_barker": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://cdn-002.whatsupcams.com/hls/it_roma02.m3u8"
+				}
+			],
+			"themes": [
+				18
+			],
+			"full_logo": "/sdp/mos/nclogo1524671423878.png",
+			"logo": "/sdp/mos/nclogo1524671426982.png",
+			"background": "/sdp/mos/nclogo1524671429983.png"
+		}
+	]
+}	
